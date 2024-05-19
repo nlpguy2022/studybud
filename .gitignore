@@ -1,0 +1,4 @@
+*.pdf
+config.py
+__pycache__
+venv/
